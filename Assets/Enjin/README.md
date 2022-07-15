@@ -1,4 +1,4 @@
-# Blockchain SDK by Enjin for Unity
+﻿# Blockchain SDK by Enjin for Unity
 
 Create blockchain projects and video games using the Unity game engine.
 
