@@ -1,0 +1,21 @@
+{
+    "name": "PusherClient",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [
+        "WebGL"
+    ],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "NaCl.dll",
+        "Newtonsoft.Json.dll",
+        "SuperSocket.ClientEngine.dll",
+        "System.Memory.dll",
+        "WebSocket4Net.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": true
+}
