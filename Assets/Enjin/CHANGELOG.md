@@ -29,6 +29,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Removed Enjin menu from Unity Editor.
 
-[Unreleased]: https://github.com/enjin/enjin-csharp-sdk/compare/2.0.0-beta.1...HEAD
+[Unreleased]: https://github.com/enjin/enjin-unity-sdk/compare/2.0.0-beta.1...HEAD
 
-[2.0.0-beta.1]: https://github.com/enjin/enjin-csharp-sdk/releases/tag/2.0.0-beta.1
+[2.0.0-beta.1]: https://github.com/enjin/enjin-unity-sdk/releases/tag/2.0.0-beta.1
