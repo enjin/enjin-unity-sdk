@@ -1,0 +1,4 @@
+* text=auto
+*.dll linguist-generated=true
+*.meta linguist-generated=true
+*.png linguist-generated=true

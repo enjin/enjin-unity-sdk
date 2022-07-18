@@ -1,0 +1,21 @@
+﻿{
+  "name": "com.enjin.sdk",
+  "version": "2.0.0-beta.1",
+  "description": "A Unity SDK for creating games using the Enjin blockchain platform.",
+  "displayName": "Enjin Unity SDK",
+  "unity": "2020.3",
+  "author": {
+    "name": "Enjin Pte. Ltd.",
+    "email": "https://enjin.io/support",
+    "url": "https://enjin.io/"
+  },
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json": "3.0.2"
+  },
+  "documentationUrl": "https://docs.enjin.io",
+  "keywords": [
+    "enjin",
+    "blockchain",
+    "sdk"
+  ]
+}
