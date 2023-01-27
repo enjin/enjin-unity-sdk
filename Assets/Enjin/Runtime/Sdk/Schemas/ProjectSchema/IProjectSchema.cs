@@ -149,6 +149,14 @@ namespace Enjin.SDK.ProjectSchema
         Task<GraphqlResponse<bool?>> DeletePlayer(DeletePlayer request);
 
         /// <summary>
+        /// Creates a task and sends the <see cref="Enjin.SDK.ProjectSchema.GetAssetsFromProject"/> request.
+        /// </summary>
+        /// <param name="request">The request.</param>
+        /// <returns>The task.</returns>
+        [ItemCanBeNull]
+        Task<GraphqlResponse<List<Asset>>> GetAssetsFromProject(GetAssetsFromProject request);
+
+        /// <summary>
         /// Creates a task and sends the <see cref="Enjin.SDK.ProjectSchema.GetPlayer"/> request.
         /// </summary>
         /// <param name="request">The request.</param>
