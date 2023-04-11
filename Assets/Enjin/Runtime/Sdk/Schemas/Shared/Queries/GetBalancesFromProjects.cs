@@ -22,7 +22,7 @@ namespace Enjin.SDK.Shared
     /// Request for getting balances from different projects on the platform.
     /// </summary>
     /// <seealso cref="Balance"/>
-    /// <seealso cref="SharedSchema"/>
+    /// <seealso cref="ISharedSchema"/>
     [PublicAPI]
     public class GetBalancesFromProjects : GraphqlRequest<GetBalancesFromProjects>,
                                            IBalanceFragmentArguments<GetBalancesFromProjects>,
