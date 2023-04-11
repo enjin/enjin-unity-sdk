@@ -7,6 +7,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [2.0.0-beta.3] - 2023-04-11
+
+- Added `GetAssetsFromProjects` request to `IProjectSchema`.
+- Added `GetBalancesFromProjects` request to `ISharedSchema`.
+
 ## [2.0.0-beta.2] - 2023-01-02
 
 ### Added
@@ -39,7 +44,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Removed Enjin menu from Unity Editor.
 
-[Unreleased]: https://github.com/enjin/enjin-unity-sdk/compare/2.0.0-beta.2...HEAD
+[Unreleased]: https://github.com/enjin/enjin-unity-sdk/compare/2.0.0-beta.3...HEAD
+
+[2.0.0-beta.3]: https://github.com/enjin/enjin-unity-sdk/compare/2.0.0-beta.2...2.0.0-beta.3
 
 [2.0.0-beta.2]: https://github.com/enjin/enjin-unity-sdk/compare/2.0.0-beta.1...2.0.0-beta.2
 
